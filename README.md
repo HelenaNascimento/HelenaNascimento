@@ -1,10 +1,10 @@
 
 <div align="center">
-    <a href="https://github.com/HelenaNascimento"><img height="350px"  src="https://github.com/HelenaNascimento/HelenaNascimento/blob/main/%40HelenaNascimento.png" alt="Kayo Galdino's Dev Card"/></a>
+    <a href="https://github.com/HelenaNascimento"><img height="350px"  src="https://github.com/HelenaNascimento/HelenaNascimento/blob/main/%40HelenaNascimento.png" alt="Helena Card"/></a>
   </a>
 </div>
 
-<a href="https://github.com/HelenaNascimento"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#f96363&height=180&section=header&text=VENI+VIDI+VICI&fontSize=30&fontColor=4CAF50&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/HelenaNascimento"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=180&section=header&text=VENI+VIDI+VICI&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
   
