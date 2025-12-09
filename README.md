@@ -55,8 +55,6 @@
 
 </div>
 
-## <a href="https://www.linkedin.com/in/HelenaNascimento/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=4CAF50&vCenter=true&width=85&height=20&lines=Socials" alt="Typing SVG" /></a>
-
-<a href="https://github.com/HelenaNascimento">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A5E3A&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=4CAF50&animation=twinkling&fontAlignY=55"/>
+<a href="https://github.com/KAYOKG">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=180&section=footer&text=O+que+eu+não+sei+,+me+dê+alguns+dias&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=55"/>
 </a>
