@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4CAF50&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+Helena;Moro+no+Nordete+do+Brasil;Eu+sou+analista+de+dados+;Seja+Bem+-+Vindo(a)!🎉)](https://github.com/HelenaNascimento)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A01FDF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+Helena;Moro+no+Nordete+do+Brasil;Eu+sou+analista+de+dados+;Seja+Bem+-+Vindo(a)!🎉)](https://github.com/HelenaNascimento)
 
 </div>
 
