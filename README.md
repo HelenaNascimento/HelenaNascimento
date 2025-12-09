@@ -1,4 +1,10 @@
-<a href="https://github.com/HelenaNascimento"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A5E3A&height=180&section=header&text=VENI+VIDI+VICI&fontSize=30&fontColor=4CAF50&animation=twinkling&fontAlignY=35"/></a>
+
+<div align="center">
+    <a href="https://github.com/HelenaNascimento"><img height="350px"  src="https://github.com/HelenaNascimento/HelenaNascimento/blob/main/%40HelenaNascimento.png" alt="Kayo Galdino's Dev Card"/></a>
+  </a>
+</div>
+
+<a href="https://github.com/HelenaNascimento"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#f96363&height=180&section=header&text=VENI+VIDI+VICI&fontSize=30&fontColor=4CAF50&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
   
@@ -6,13 +12,7 @@
 
 </div>
 
-<div align="left">
-  <a href="https://github.com/HelenaNascimento">
-    <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=HelenaNascimento&show_icons=true&count_private=true&hide_border=true&title_color=4CAF50&icon_color=4CAF50&text_color=8BC34A&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Helena Nascimento" />
-    <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenaNascimento&layout=compact&hide_border=true&title_color=4CAF50&text_color=8BC34A&bg_color=0a0c10&thme=transparent" />
-    <a href="https://github.com/HelenaNascimento"><img height="350px"  src="https://github.com/KAYOKG/KAYOKG/blob/main/devcard.svg" alt="Kayo Galdino's Dev Card"/></a>
-  </a>
-</div>
+
 
 </br>
 
