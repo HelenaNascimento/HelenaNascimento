@@ -1,16 +1,16 @@
-<a href="[https://github.com/KAYOKG](https://github.com/HelenaNascimento)"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A5E3A&height=180&section=header&text=VENI+VIDI+VICI&fontSize=30&fontColor=4CAF50&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/HelenaNascimento"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A5E3A&height=180&section=header&text=VENI+VIDI+VICI&fontSize=30&fontColor=4CAF50&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4CAF50&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Kayo+Galdino;I'm+22+years+old;I+am+from+Manhuaçu,+MG;I+study+information+systems+at+UFU;Be+Welcome!🎉)](https://github.com/KAYOKG)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4CAF50&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+Helena;Moro+no+Nordete+do+Brasil;Eu+sou+analista+de+dados+;Seja+Bem+-+Vindo(a)!🎉)](https://github.com/HelenaNascimento)
 
 </div>
 
 <div align="left">
-  <a href="https://github.com/KAYOKG">
-    <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=KAYOKG&show_icons=true&count_private=true&hide_border=true&title_color=4CAF50&icon_color=4CAF50&text_color=8BC34A&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Kayo Galdino github stats" />
-    <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&hide_border=true&title_color=4CAF50&text_color=8BC34A&bg_color=0a0c10&thme=transparent" />
-    <a href="https://github.com/KAYOKG"><img height="350px"  src="https://github.com/KAYOKG/KAYOKG/blob/main/devcard.svg" alt="Kayo Galdino's Dev Card"/></a>
+  <a href="https://github.com/HelenaNascimento">
+    <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=HelenaNascimento&show_icons=true&count_private=true&hide_border=true&title_color=4CAF50&icon_color=4CAF50&text_color=8BC34A&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Helena Nascimento" />
+    <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenaNascimento&layout=compact&hide_border=true&title_color=4CAF50&text_color=8BC34A&bg_color=0a0c10&thme=transparent" />
+    <a href="https://github.com/HelenaNascimento"><img height="350px"  src="https://github.com/KAYOKG/KAYOKG/blob/main/devcard.svg" alt="Kayo Galdino's Dev Card"/></a>
   </a>
 </div>
 
