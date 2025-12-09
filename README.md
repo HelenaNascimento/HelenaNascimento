@@ -12,13 +12,11 @@
 
 </div>
 
-
-
 </br>
 
 <div align="center">
 
-[![KG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KAYOKG&bg_color=0a0c10&color=8BC34A&line=4CAF50&point=8BC34A&area=true&hide_border=false)](https://github.com/KAYOKG)
+[![KG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HelenaNascimento&bg_color=0a0c10&color=A01FDF&line=4CAF50&point=8BC34A&area=true&hide_border=false)](https://github.com/HelenaNascimento)
 
 </div>
 
