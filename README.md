@@ -1,14 +1,13 @@
-n
 <div align="center">
-    <a href="https://github.com/HelenaNascimento"><img height="350px"  src="https://github.com/HelenaNascimento/HelenaNascimento/blob/main/%40HelenaNascimento.png" alt="Helena Card"/></a>
+    <a href="https://github.com/HelenaNascimento"><img width=100% src="https://github.com/HelenaNascimento/HelenaNascimento/blob/main/%40HelenaNascimento.png" alt="Helena Card"/></a>
   </a>
 </div>
 
-<a href="https://github.com/HelenaNascimento"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=180&section=header&text=VENI+VIDI+VICI&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/HelenaNascimento"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=180&section=header&text=Olá+Bem+-+Vindo(a)+🎉&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A01FDF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+Helena;Moro+no+Nordete+do+Brasil;Eu+sou+analista+de+dados+;Seja+Bem+-+Vindo(a)!🎉)](https://github.com/HelenaNascimento)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A01FDF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+obrigada+por+aparecer;Moro+no+Nordete+do+Brasil;Sou+analista+de+dados+e+entusiasta+de+tecnologia)](https://github.com/HelenaNascimento)
 
 </div>
 
@@ -21,7 +20,7 @@ n
 </div>
 
 <div align="center"> 
-    <a href="https://github.com/HelenaNascimento"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=4CAF50&vCenter=true&width=350&height=30&lines=A+LITTLE+ABOUT+MY+STUDY+FOCUS"/></a>
+    <a href="https://github.com/HelenaNascimento"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=FF00FF&vCenter=true&width=350&height=30&lines=A+LITTLE+ABOUT+MY+STUDY+FOCUS"/></a>
  <!-- SKINS -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1500&color=4CAF50&center=true&vCenter=true&width=450&lines=Banco+de+Dados;Python;Automação" />
 
