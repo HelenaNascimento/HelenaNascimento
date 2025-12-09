@@ -3,7 +3,7 @@
   </a>
 </div>
 
-<a href="https://github.com/HelenaNascimento"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=180&section=header&text=Olá+Bem+-+Vindo(a)+🎉&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/HelenaNascimento"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=180&section=header&text=Olá,+Bem+-+Vindo(a)+🎉&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/></a>
 
 <div align="center">
   
