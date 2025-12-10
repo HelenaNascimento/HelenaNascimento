@@ -55,6 +55,32 @@
 
 </div>
 
+<div>
+    <table align="center">
+   <td align="center" width="300">      
+      <img
+        height="220rem"
+        width="350rem"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HelenaNascimento&theme=github_dark"
+      />
+   </td>
+   <td align="center" width="300">      
+      <img
+        height="220rem"
+        width="350rem"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HelenaNascimento&theme=github_dark"
+      />
+     </td>
+     <td align="center" width="300">      
+      <img
+        height="220rem"
+        width="350rem"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HelenaNascimento&theme=github_dark"
+      />
+     </td>
+  </table>
+</div>
+
 <a href="https://github.com/KAYOKG">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=180&section=footer&text=O+que+eu+não+sei+,+me+dê+alguns+dias&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=55"/>
 </a>
