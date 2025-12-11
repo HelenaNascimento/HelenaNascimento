@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A01FDF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+obrigada+por+aparecer!;Sou+Bacharel+em+SI,;+analista+de+dados,+automação+e+entusiasta+de+tecnologia)](https://github.com/HelenaNascimento)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A01FDF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+obrigada+por+aparecer!;+Bacharel+em+SI;+Analista+de+dados,+automação+de+processos)](https://github.com/HelenaNascimento)
 
 </div>
 
