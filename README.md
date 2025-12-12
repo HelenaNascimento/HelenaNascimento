@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/HelenaNascimento"><img width=100% src="https://github.com/HelenaNascimento/HelenaNascimento/blob/main/%40HelenaNascimento.png" alt="Helena Card"/></a>
+    <a href="https://github.com/HelenaNascimento"><img width=100% src="https://github.com/HelenaNascimento/HelenaNascimento/blob/main/%40HelenaNascimento%20-%20apresenta%C3%A7%C3%A3o.png" alt="Helena Card"/></a>
   </a>
 </div>
 
