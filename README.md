@@ -80,7 +80,10 @@
      </td>
   </table>
 </div>
-
+<div align="center">
+    <a href="https://github.com/HelenaNascimento"><img width=100% src="https://github.com/HelenaNascimento/HelenaNascimento/blob/main/Helena_G.png" alt="Helena Card"/></a>
+  </a>
+</div>
 <a href="https://github.com/KAYOKG">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=180&section=footer&text=O+que+eu+não+sei+,+me+dê+alguns+dias&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=55"/>
 </a>
